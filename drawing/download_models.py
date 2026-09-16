@@ -19,7 +19,7 @@ MODELS = {
         'url': 'https://github.com/sanghyun-son/EDSR-PyTorch/releases/download/v1.0/edsr_base_4x.pt',
         'path': 'checkpoints/edsr_base_4x.pt',
         'size_mb': 50,
-        'description': 'EDSR 4× super-resolution for IR enhancement',
+        'description': 'EDSR 4x super-resolution for IR enhancement',
         'sha256': None,
     },
     'pix2pix_ir2rgb': {
